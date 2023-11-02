@@ -1,5 +1,4 @@
 ### Hello there
-- I'm coding just for fun
 
 <details>
   <summary><b>Github Stats</b></summary>
